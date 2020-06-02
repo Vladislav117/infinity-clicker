@@ -1,0 +1,3 @@
+gamename:Infinity clicker
+author:Vladislav117
+version:1.0.0
